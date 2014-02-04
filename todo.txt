@@ -1,0 +1,4 @@
+To do:
+- Add an option to automatically open tabs
+- Fetch the right file by default
+- Give location of the file under non-Linux systems
